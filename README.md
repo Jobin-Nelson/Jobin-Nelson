@@ -4,7 +4,7 @@ Welcome to my Github profile! Here you'll find a collection of projects that I'v
 
 ## About Me
 
-I'm a programmer with a passion for learning new things. I enjoy building apps and small CLI scripts to make my life easy.
+I'm a programmer with a passion for learning new things. I enjoy building apps and solving [leetcode](https://leetcode.com/k3rnel_p4n1c/). You can checkout my profile [here](https://leetcode.com/k3rnel_p4n1c/).
 
 ## Contact Me
 

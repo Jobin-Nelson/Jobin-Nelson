@@ -1,10 +1,10 @@
 # Hi there, I'm Jobin! 👋
 
-Welcome to my Github profile! Here you'll find a collection of projects that I've worked on, ranging from personal hobby projects to collaborations with others.
+I'm a programmer with knowledge in Python, Rust, and JavaScript languages. I enjoy building projects that help solve real-world problems and am always looking for ways to improve my skills.
 
 ## About Me
 
-I'm a programmer with a passion for learning new things. I enjoy building apps and solving [leetcode](https://leetcode.com/k3rnel_p4n1c/). You can checkout my profile [here](https://leetcode.com/k3rnel_p4n1c/).
+I've been programming since I've graduated college (2019) and have worked on a variety of projects ranging from web applications to system software. In my free time, I enjoy learning new programming language. I'm also an avid [leetcoder](https://leetcode.com/k3rnel_p4n1c/).
 
 ## Contact Me
 

@@ -14,7 +14,7 @@ If you have any questions or would like to get in touch, feel free to reach out 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Jobin-Nelson&show_icons=true&theme=radical" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jobin-Nelson&layout=compact&hide=jupyter+Notebook,html" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jobin-Nelson&layout=compact&hide=jupyter+Notebook,HTML,css" />
 
 <img align="left" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img align="left" alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />

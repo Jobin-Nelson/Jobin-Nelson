@@ -1,6 +1,6 @@
 # Hi there, I'm Jobin! 👋
 
-I'm a programmer with knowledge in Python, Rust, and JavaScript languages. I enjoy building projects that help solve real-world problems and am always looking for ways to improve my skills.
+I'm a programmer with knowledge in Python, Rust, Go, JavaScript and Typescript. I enjoy building projects that help solve real-world problems and am always looking for ways to improve my skills.
 
 ## About Me
 
